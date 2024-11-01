@@ -1,1 +1,9 @@
 .DS_Store
+/venv/
+/3rdparty/
+/__MACOSX
+__pycache__
+events.out.tfevents.*
+mat.out.*
+*.pt
+results/
